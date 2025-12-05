@@ -1,5 +1,5 @@
 #  Project Name
-  AI-Powered Phishing Awareness and Training Platform.
+   AI-Powered Social Behavior Analyzer 
 
 
   ##  Description
