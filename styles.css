@@ -1,0 +1,145 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background:#424242;
+  color: white;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 70px;   /* moved navbar slightly left */
+  align-items: center;
+}
+.logo {
+  font-size: 26px;
+  font-weight: 700;
+  color: #3fc9ff;
+}
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin-right: 120px;  /* pushes links left */
+}
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.nav-links a:hover {
+  color: #3fc9ff;
+  text-shadow: 0 0 5px #3fc9ff;
+}
+
+/* MAIN CONTAINER */
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.left-box {
+  width: 45%;
+  min-width: 300px;
+}
+
+.left-box h2 {
+  margin-bottom: 10px;
+  font-size: 28px;
+}
+
+.left-box p {
+  margin-bottom: 5px;
+  opacity: 0.8;
+  width: 70%;              /* forces the text to break into two lines */
+  line-height: 1.4;
+}
+.left-box hr {
+  width: 80%;
+  border: 0;
+  border-top: 1px solid #555;
+  margin: 15px 0 25px 0;
+}
+label {
+  display: block;
+  margin-bottom: 6px;
+  margin-top: 10px;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="text"] {
+  width: 80%;              /* shorter width */
+  padding: 16px;             /* taller height */
+  border-radius: 6px;
+  border: none;
+  margin-bottom: 8px;
+  background: #3e4349;
+  color: white;
+  font-size: 15px;
+  border: 0.5px solid #c5e6ef;  
+}
+
+.remember-row {
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  gap: 8px;
+}
+
+.signup-text a {
+  color: #3fc9ff;
+  text-decoration: none;
+}
+
+/* LOGIN BUTTON */
+.btn-login {
+  margin-top: 30px;
+  width: 150px;
+  padding: 12px;
+  background: #55dbff;
+  border: none;
+  border-radius: 8px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: 0.3s;
+  color: #003648;
+  font-weight: 600;
+}
+
+.btn-login:hover {
+  background: #72eeff;
+  box-shadow: 0 0 10px #72eeff;
+  transform: translateY(-2px);
+}
+
+/* RIGHT IMAGE */
+.right-image img {
+  width: 450px;
+  max-width: 100%;
+  background-color: transparent;
+ transform: translateX(-10%);
+}
+
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+/* RESPONSIVE */
+@media (max-width: 950px) {
+  .container {
+    flex-direction: column;
+    text-align: center;
+    gap: 40px;
+  }
+  .left-box {
+    width: 100%;
+  }
+}
