@@ -1,0 +1,1001 @@
+Author,tweet_id,Content,tweet_text_lower,cybercrime_flag
+user_001,1,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_001,2,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_001,3,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,4,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_001,5,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,6,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_001,7,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_001,8,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_001,9,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,10,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,11,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_001,12,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,13,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,14,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,15,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_001,16,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,17,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,18,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_001,19,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,20,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_001,21,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,22,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_001,23,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_001,24,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_001,25,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,26,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,27,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,28,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,29,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_001,30,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,31,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,32,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,33,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,34,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,35,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_001,36,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,37,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,38,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,39,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,40,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_001,41,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,42,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_001,43,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_001,44,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,45,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_001,46,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_001,47,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_001,48,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_001,49,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,50,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,51,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,52,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,53,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,54,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,55,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_001,56,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_001,57,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,58,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,59,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,60,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_001,61,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,62,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,63,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_001,64,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,65,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,66,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,67,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_001,68,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_001,69,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_001,70,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,71,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_001,72,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_001,73,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_001,74,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_001,75,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_001,76,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_001,77,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,78,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_001,79,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,80,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_001,81,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,82,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_001,83,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_001,84,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_001,85,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,86,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,87,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_001,88,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_001,89,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,90,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_001,91,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_001,92,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_001,93,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_001,94,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_001,95,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_001,96,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_001,97,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_001,98,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_001,99,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_001,100,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,101,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,102,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_002,103,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,104,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,105,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_002,106,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_002,107,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,108,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,109,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,110,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,111,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,112,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_002,113,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_002,114,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,115,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,116,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_002,117,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_002,118,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,119,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,120,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,121,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,122,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_002,123,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_002,124,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,125,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,126,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,127,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_002,128,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,129,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_002,130,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,131,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_002,132,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,133,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,134,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_002,135,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_002,136,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,137,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,138,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_002,139,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_002,140,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,141,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_002,142,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_002,143,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,144,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,145,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_002,146,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,147,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,148,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_002,149,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,150,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,151,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,152,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_002,153,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_002,154,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_002,155,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,156,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,157,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_002,158,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,159,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,160,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_002,161,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,162,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_002,163,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,164,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_002,165,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_002,166,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,167,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_002,168,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,169,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,170,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,171,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,172,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,173,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_002,174,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,175,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,176,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,177,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,178,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_002,179,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_002,180,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,181,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,182,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_002,183,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_002,184,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,185,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,186,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,187,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_002,188,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,189,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_002,190,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_002,191,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,192,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_002,193,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,194,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,195,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,196,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_002,197,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_002,198,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_002,199,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_002,200,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,201,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,202,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,203,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,204,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_003,205,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,206,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,207,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,208,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,209,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,210,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,211,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,212,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_003,213,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,214,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_003,215,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,216,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_003,217,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_003,218,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,219,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_003,220,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_003,221,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_003,222,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_003,223,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_003,224,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_003,225,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_003,226,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_003,227,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,228,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,229,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,230,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,231,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,232,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,233,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,234,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,235,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,236,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_003,237,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,238,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,239,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_003,240,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_003,241,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,242,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,243,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,244,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,245,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_003,246,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_003,247,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,248,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_003,249,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_003,250,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,251,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_003,252,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,253,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,254,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,255,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_003,256,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,257,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,258,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_003,259,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_003,260,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,261,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_003,262,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,263,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,264,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_003,265,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_003,266,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,267,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_003,268,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,269,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,270,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,271,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_003,272,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,273,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,274,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,275,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_003,276,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_003,277,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_003,278,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_003,279,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_003,280,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_003,281,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,282,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,283,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,284,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_003,285,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_003,286,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_003,287,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_003,288,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_003,289,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_003,290,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_003,291,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_003,292,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_003,293,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_003,294,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_003,295,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_003,296,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_003,297,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_003,298,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_003,299,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_003,300,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_004,301,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,302,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_004,303,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_004,304,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,305,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_004,306,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,307,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_004,308,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,309,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,310,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_004,311,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,312,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_004,313,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,314,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_004,315,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,316,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,317,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,318,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,319,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,320,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,321,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,322,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,323,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_004,324,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,325,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,326,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,327,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,328,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_004,329,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,330,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,331,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_004,332,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_004,333,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,334,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_004,335,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_004,336,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,337,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_004,338,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,339,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_004,340,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,341,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_004,342,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_004,343,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_004,344,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_004,345,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,346,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,347,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_004,348,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,349,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,350,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,351,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,352,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,353,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,354,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,355,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_004,356,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,357,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_004,358,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,359,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_004,360,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_004,361,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_004,362,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,363,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,364,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,365,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,366,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,367,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,368,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,369,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,370,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,371,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_004,372,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,373,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_004,374,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_004,375,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,376,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,377,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,378,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,379,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_004,380,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_004,381,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_004,382,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_004,383,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_004,384,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_004,385,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,386,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_004,387,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_004,388,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_004,389,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_004,390,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,391,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_004,392,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,393,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_004,394,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_004,395,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_004,396,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_004,397,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_004,398,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_004,399,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_004,400,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,401,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_005,402,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_005,403,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,404,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_005,405,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_005,406,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,407,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,408,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_005,409,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,410,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,411,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,412,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,413,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_005,414,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,415,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_005,416,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,417,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,418,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,419,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,420,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,421,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_005,422,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_005,423,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,424,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_005,425,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,426,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,427,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,428,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,429,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,430,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_005,431,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,432,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_005,433,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,434,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,435,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,436,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,437,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_005,438,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,439,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,440,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_005,441,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,442,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,443,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,444,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,445,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_005,446,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,447,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_005,448,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,449,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,450,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_005,451,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,452,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_005,453,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,454,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_005,455,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_005,456,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_005,457,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,458,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,459,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_005,460,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_005,461,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_005,462,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_005,463,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,464,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,465,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,466,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_005,467,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,468,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_005,469,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,470,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,471,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_005,472,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,473,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,474,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,475,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_005,476,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_005,477,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,478,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,479,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_005,480,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_005,481,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_005,482,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,483,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_005,484,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,485,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_005,486,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,487,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_005,488,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_005,489,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_005,490,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_005,491,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_005,492,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_005,493,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_005,494,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_005,495,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_005,496,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_005,497,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_005,498,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_005,499,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_005,500,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_006,501,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,502,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_006,503,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,504,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_006,505,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,506,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,507,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,508,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,509,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_006,510,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,511,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,512,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_006,513,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,514,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,515,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_006,516,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,517,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_006,518,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,519,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,520,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,521,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,522,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_006,523,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,524,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_006,525,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_006,526,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_006,527,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_006,528,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,529,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_006,530,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,531,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_006,532,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,533,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,534,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,535,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_006,536,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,537,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_006,538,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,539,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,540,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_006,541,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_006,542,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,543,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,544,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,545,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,546,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,547,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,548,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_006,549,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_006,550,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_006,551,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,552,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_006,553,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_006,554,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_006,555,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_006,556,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,557,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_006,558,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,559,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,560,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,561,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,562,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,563,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,564,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_006,565,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,566,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_006,567,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,568,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,569,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_006,570,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_006,571,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,572,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,573,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,574,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,575,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_006,576,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_006,577,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,578,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_006,579,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,580,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_006,581,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_006,582,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_006,583,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_006,584,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,585,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_006,586,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,587,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_006,588,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_006,589,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,590,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_006,591,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_006,592,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_006,593,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,594,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_006,595,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_006,596,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_006,597,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_006,598,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_006,599,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_006,600,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,601,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,602,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_007,603,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,604,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,605,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_007,606,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,607,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,608,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_007,609,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_007,610,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_007,611,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,612,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,613,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,614,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_007,615,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,616,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,617,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_007,618,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_007,619,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,620,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,621,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,622,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,623,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,624,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,625,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_007,626,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_007,627,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_007,628,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_007,629,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_007,630,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_007,631,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,632,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_007,633,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_007,634,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,635,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_007,636,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_007,637,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,638,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_007,639,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_007,640,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_007,641,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,642,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,643,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,644,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,645,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,646,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,647,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,648,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_007,649,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_007,650,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_007,651,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,652,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,653,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_007,654,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,655,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,656,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_007,657,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,658,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,659,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,660,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,661,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,662,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_007,663,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,664,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_007,665,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,666,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_007,667,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_007,668,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,669,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,670,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,671,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,672,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_007,673,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,674,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_007,675,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_007,676,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_007,677,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_007,678,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,679,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_007,680,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_007,681,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_007,682,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_007,683,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_007,684,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_007,685,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,686,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,687,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_007,688,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_007,689,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_007,690,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_007,691,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_007,692,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_007,693,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_007,694,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_007,695,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_007,696,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_007,697,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_007,698,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_007,699,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_007,700,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,701,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_008,702,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,703,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,704,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_008,705,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_008,706,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,707,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_008,708,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,709,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,710,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_008,711,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,712,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,713,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,714,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,715,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,716,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_008,717,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,718,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,719,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,720,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,721,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_008,722,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,723,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_008,724,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_008,725,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,726,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,727,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,728,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_008,729,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_008,730,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,731,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_008,732,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_008,733,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_008,734,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,735,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,736,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_008,737,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_008,738,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,739,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_008,740,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_008,741,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,742,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,743,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,744,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_008,745,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,746,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_008,747,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,748,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,749,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,750,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,751,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_008,752,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,753,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,754,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,755,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_008,756,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_008,757,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_008,758,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,759,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,760,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,761,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_008,762,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_008,763,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_008,764,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_008,765,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_008,766,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_008,767,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_008,768,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_008,769,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,770,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_008,771,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_008,772,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,773,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,774,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,775,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,776,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_008,777,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_008,778,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_008,779,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,780,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_008,781,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,782,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,783,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,784,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,785,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,786,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,787,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_008,788,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_008,789,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_008,790,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,791,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_008,792,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_008,793,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_008,794,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_008,795,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_008,796,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_008,797,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_008,798,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_008,799,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_008,800,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_009,801,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,802,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_009,803,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,804,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,805,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,806,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_009,807,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_009,808,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_009,809,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,810,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_009,811,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_009,812,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_009,813,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_009,814,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_009,815,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_009,816,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,817,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,818,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,819,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,820,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,821,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_009,822,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_009,823,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,824,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,825,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,826,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,827,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_009,828,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_009,829,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_009,830,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_009,831,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_009,832,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_009,833,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_009,834,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_009,835,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_009,836,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_009,837,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_009,838,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,839,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_009,840,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_009,841,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,842,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_009,843,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_009,844,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_009,845,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_009,846,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,847,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,848,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_009,849,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_009,850,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,851,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,852,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,853,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_009,854,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,855,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_009,856,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,857,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_009,858,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_009,859,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,860,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,861,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_009,862,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,863,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_009,864,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,865,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,866,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,867,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_009,868,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,869,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_009,870,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_009,871,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_009,872,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_009,873,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,874,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_009,875,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,876,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_009,877,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_009,878,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_009,879,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_009,880,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,881,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_009,882,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,883,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,884,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_009,885,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,886,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_009,887,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_009,888,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_009,889,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_009,890,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_009,891,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_009,892,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_009,893,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,894,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_009,895,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_009,896,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_009,897,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_009,898,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_009,899,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_009,900,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,901,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,902,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,903,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,904,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_010,905,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_010,906,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_010,907,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_010,908,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_010,909,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,910,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,911,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,912,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_010,913,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_010,914,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_010,915,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,916,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_010,917,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,918,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_010,919,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,920,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,921,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_010,922,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_010,923,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,924,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_010,925,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,926,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,927,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_010,928,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_010,929,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_010,930,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,931,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,932,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_010,933,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_010,934,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,935,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,936,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,937,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,938,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_010,939,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_010,940,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_010,941,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,942,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,943,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_010,944,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,945,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,946,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_010,947,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,948,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_010,949,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,950,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,951,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_010,952,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_010,953,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_010,954,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_010,955,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,956,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_010,957,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,958,There's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,there's a keylogger installed on my coworker's laptop—stolen passwords everywhere.,TRUE
+user_010,959,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,960,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,961,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_010,962,My friend's Instagram account was hacked and they're asking people for money.,my friend's instagram account was hacked and they're asking people for money.,TRUE
+user_010,963,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_010,964,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,965,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_010,966,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_010,967,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_010,968,Someone tried to brute force into my admin panel last night!,someone tried to brute force into my admin panel last night!,TRUE
+user_010,969,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,970,Dark web markets are booming with illegal exploits and zero-days.,dark web markets are booming with illegal exploits and zero-days.,TRUE
+user_010,971,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_010,972,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_010,973,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_010,974,"Just got an email asking for my password. Looked like my bank, but it's a phishing scam.","just got an email asking for my password. looked like my bank, but it's a phishing scam.",TRUE
+user_010,975,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,976,Got a text pretending to be from my mobile provider. Classic smishing attempt!,got a text pretending to be from my mobile provider. classic smishing attempt!,TRUE
+user_010,977,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_010,978,"Company suffered a ransomware attack. All data encrypted, ransom note left on every computer.","company suffered a ransomware attack. all data encrypted, ransom note left on every computer.",TRUE
+user_010,979,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,980,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,981,Fake customer support tried to remote into my laptop. Total scam!,fake customer support tried to remote into my laptop. total scam!,TRUE
+user_010,982,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,983,They’re selling stolen credit card numbers through a Telegram bot!,they’re selling stolen credit card numbers through a telegram bot!,TRUE
+user_010,984,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_010,985,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,986,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_010,987,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_010,988,Police warning about a surge in social engineering attacks targeting remote workers.,police warning about a surge in social engineering attacks targeting remote workers.,TRUE
+user_010,989,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,990,"He clicked on a phishing link, and now all his credentials are compromised.","he clicked on a phishing link, and now all his credentials are compromised.",TRUE
+user_010,991,Be careful with that game mod site—it's full of trojans and spyware.,be careful with that game mod site—it's full of trojans and spyware.,TRUE
+user_010,992,Saw someone offering hacked Netflix accounts on the dark web.,saw someone offering hacked netflix accounts on the dark web.,TRUE
+user_010,993,I think I found a SQL injection vulnerability on this old site.,i think i found a sql injection vulnerability on this old site.,TRUE
+user_010,994,"Got blackmailed online after a video call. Be cautious, people.","got blackmailed online after a video call. be cautious, people.",TRUE
+user_010,995,Hackers leaked private data from the healthcare app—thousands affected.,hackers leaked private data from the healthcare app—thousands affected.,TRUE
+user_010,996,Scammers are using fake job offers to steal personal information online.,scammers are using fake job offers to steal personal information online.,TRUE
+user_010,997,Received a suspicious attachment in an email claiming to be my resume feedback.,received a suspicious attachment in an email claiming to be my resume feedback.,TRUE
+user_010,998,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
+user_010,999,He was scammed by someone pretending to be Apple Support via phone.,he was scammed by someone pretending to be apple support via phone.,TRUE
+user_010,1000,Got a weird link from someone I don't know. Turned out to be a malware site.,got a weird link from someone i don't know. turned out to be a malware site.,TRUE
