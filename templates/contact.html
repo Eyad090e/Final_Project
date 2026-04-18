@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ThreatLens - Contact Us</title>
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+  <!-- Font Awesome (Online Icons) -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    integrity="sha512-xh6O/CkQoPOWdYTDYwcmBHQYaWV7k/akdUSHh3D1ynjUTduVdJN9WewtG/XAIN5e8wZsM+d1Z5nYkM6Y4Z6Zg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  >
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+
+</head>
+
+<style>
+  .note {
+    display: inline-block;
+    color: #3fc9ff;
+  }
+
+  .contact-info {
+    margin-top: 25px;
+    font-size: 17px;
+    line-height: 2;
+  }
+
+  .contact-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 15px;
+  }
+
+  .contact-item i {
+    font-size: 20px;
+    color: #3fc9ff;
+  }
+</style>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo">ThreatLens</div>
+    <ul class="nav-links">
+      <li><a href="home">Home</a></li>
+      <li><a href="analyse">Analyse</a></li>
+            <li><a href="history">History</a></li>
+
+      <li><a href="about">About us</a></li>
+      <li><a href="contact" class="active">Contact us</a></li>
+      {% if session['user_id'] %}
+      <li><a href="logout">Logout</a></li>
+      {% else %}
+      <li><a href="login">Login</a></li>
+      <li><a href="signup">Signup</a></li>
+      {% endif %}
+    </ul>
+  </nav>
+
+  <!-- Main Section -->
+  <section class="container">
+    <div class="left-box">
+      <h1>Contact <span class="note">ThreatLens</span></h1>
+
+      <div class="contact-info">
+        <div class="contact-item">
+          <i class="fa-solid fa-phone"></i>
+          <span>3344553311</span>
+        </div>
+
+        <div class="contact-item">
+          <i class="fa-solid fa-envelope"></i>
+          <span>threatLens@gmail.com</span>
+        </div>
+      </div>
+
+      <hr>
+
+      <button class="btn-login" onclick="goHome()">Back to Home</button>
+    </div>
+
+    <div class="right-image">
+      <img src="{{ url_for('static', filename='images/logo.png') }}" alt="ThreatLens Logo">
+    </div>
+  </section>
+
+  <script>
+    function goHome() {
+      window.location.href = "/home";
+    }
+  </script>
+</body>
+</html>

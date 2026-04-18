@@ -3,14 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ThreatLens - Login</title>
+  <title>ThreatLens - Analyse</title>
 
 <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
+<style>
+  .note {
+  font-family: 'Courier New', monospace;
+  display: inline-block;               
+  color: #3fc9ff;
+}
 
+</style>
 <body>
- 
-   <nav class="navbar">
+  <nav class="navbar">
     <div class="logo">ThreatLens</div>
     <ul class="nav-links">
       <li><a href="home">Home</a></li>
@@ -30,28 +36,21 @@
 
   <section class="container">
     <div class="left-box">
-              <h1>Account Login</h1>
-
-      <p>If you are already a member you can login with your email address and password.</p>
+              <h1>ANALY<spane class="note">SE</spane></h1>
+      <p>Enter the profile username tobegin analysis!</p>
 <hr>
-      <form action="login_proccess" method="post">
-        <label>Email address</label>
-        <input type="email" id="email" name="email"/>
-
-        <label>Password</label>
-        <input type="password" id="password" name="password"/>
-{%if message%}
-        <div class="remember-row">
-          
-              <span class="loginpage-text261" style="color: red !important;">{{message}}</span>
-        </div>
-  {%endif%}
-
-        <p class="signup-text">
-          Don't have an account? <a href="signup">Sign up here</a>
-        </p>
-
-        <button class="btn-login">Log in</button>
+      <form action="analyse_username" method="get">
+        <label>Username</label>
+        <input type="text" id="username" name="username" />
+        <button class="btn-login" onclick="">Start</button>
+      </form>
+<hr><br><br><br>
+       <p>Enter the Tweets to analyese emotions sentiment!</p>
+<hr>
+      <form action="detect_emotion" method="get">
+        <label>Tweet</label>
+        <input type="text" id="tweet" name="tweet" />
+        <button class="btn-login" onclick="">Start</button>
       </form>
     </div>
 

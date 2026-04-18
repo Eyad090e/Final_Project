@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ThreatLens - Analyse</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.4.0/justgage.min.js"></script>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<style>
+  .note {
+  color: #3fc9ff;
+  font-family: 'Courier New', monospace;
+}
+
+/* analysis layout */
+.analysis-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.analysis-wrapper {
+  width: 75%;
+  padding: 20px;
+}
+
+/* title */
+.analysis-title {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 35px;
+  color: white;
+}
+
+
+
+.arrow-left, .arrow-right {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.tweet-title {
+  text-align: center;
+  flex: 1;
+}
+
+/* tweet text */
+.tweet-text {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+/* stats row */
+/* ROW */
+.stats-row {
+  display: flex;
+  gap: 20px !important;   /* was 40px */
+  margin-top: 10px; 
+  margin-left: 10%;
+}
+
+/* BOXES */
+
+
+
+
+/* GAUGE CONTAINER */
+.gauge {
+  width: 260px;
+  height: 140px;
+  margin: 20px auto 10px auto;
+  position: relative;
+}
+
+/* ARC BACKGROUND */
+.gauge::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('gauge.png');
+  background-size: cover;
+}
+
+/* NEEDLE */
+.gauge::after {
+  content: "";
+  width: 8px;
+  height: 80px;
+  background: linear-gradient(to bottom, #ff9f45, #cc6230);
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform-origin: bottom center;
+  transform: rotate(0deg);
+  border-radius: 6px;
+}
+
+/* RATE TEXT */
+.rate-text {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 18px;
+  color: #fff;
+  opacity: 0.9;
+}
+
+/* COUNT NUMBER */
+.count-box {
+  text-align: center;
+}
+
+.count-number {
+  margin-top: 45px;
+  font-size: 54px;
+  font-weight: 600;
+  color: white;
+}
+ .gauge-container {
+            width: 70%;
+            margin: auto;
+            padding: 2%;
+            background: transparent;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        }
+        .title {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        @media (max-width: 900px) {
+  .stats-row {
+    flex-wrap: wrap;        /* Allow boxes to go under each other */
+    justify-content: center;
+  }
+
+  .stats-box {
+    width: 90% !important;   /* full width */
+    margin-right: 0 !important;
+    margin-bottom: 20px;
+  }
+
+  .gauge-container {
+    width: 90% !important;
+  }
+}
+#gauge-container  svg {
+  width: 100% !important;
+  height: auto !important;
+}
+#tweetSlides {
+  position: relative;
+  overflow: hidden;
+  height: auto;
+}
+
+.slide {
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+.arrow-left, .arrow-right {
+  cursor: pointer;
+  opacity: .8;
+  font-size: 22px;
+}
+.emotion-result {
+  margin-top: 30px;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Emotion Colors */
+
+.sadness { background:#5DADE2; }
+.joy { background:#F4D03F; color:black; }
+.love { background:#EBDEF0; color:#8E44AD; }
+.anger { background:#E74C3C; }
+.fear { background:#7D3C98; }
+.surprise { background:#48C9B0; }
+
+.emotion-result {
+  margin-top: 30px;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+  border-radius: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sadness { background:#5DADE2; }
+.joy { background:#F4D03F; color:black; }
+.love { background:#EBDEF0; color:#8E44AD; }
+.anger { background:#E74C3C; }
+.fear { background:#7D3C98; }
+.surprise { background:#48C9B0; }
+/* Glass Card */
+.emotion-card {
+  width: 65%;
+  margin: auto;
+  padding: 50px;
+  border-radius: 30px;
+  background: linear-gradient(145deg, #2b2b2b, #1f1f1f);
+  box-shadow: 0 15px 40px rgba(0,0,0,0.6);
+  text-align: center;
+  color: white;
+  animation: fadeIn 0.6s ease-in-out;
+}
+
+/* Header */
+.emotion-label {
+  font-size: 18px;
+  letter-spacing: 2px;
+  color: #aaa;
+}
+
+/* Big Emotion Word */
+.emotion-result {
+  margin-top: 25px;
+  font-size: 60px;
+  font-weight: 800;
+  padding: 25px;
+  border-radius: 25px;
+  text-transform: uppercase;
+  transition: 0.3s ease;
+}
+
+/* Divider */
+.emotion-divider {
+  width: 60%;
+  height: 1px;
+  margin: 35px auto;
+  background: linear-gradient(to right, transparent, #555, transparent);
+}
+
+
+/* Emotion Colors with Glow */
+
+.sadness {
+  background: #3498db;
+  box-shadow: 0 0 25px rgba(52,152,219,0.6);
+}
+
+.joy {
+  background: #f1c40f;
+  color: black;
+  box-shadow: 0 0 25px rgba(241,196,15,0.6);
+}
+
+.love {
+  background: #e84393;
+  box-shadow: 0 0 25px rgba(232,67,147,0.6);
+}
+
+.anger {
+  background: #e74c3c;
+  box-shadow: 0 0 25px rgba(231,76,60,0.6);
+}
+
+.fear {
+  background: #8e44ad;
+  box-shadow: 0 0 25px rgba(142,68,173,0.6);
+}
+
+.surprise {
+  background: #1abc9c;
+  box-shadow: 0 0 25px rgba(26,188,156,0.6);
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from { opacity:0; transform: translateY(20px); }
+  to { opacity:1; transform: translateY(0); }
+}
+/* ===== Modern Glass Cards ===== */
+/* Professional Tweet Card */
+.emotion-text-box {
+  margin-top: 20px;
+  font-size: 19px;
+  line-height: 1.8;
+  background: #1e1e1e;
+  padding: 35px;
+  border-radius: 18px;
+  border-left: 5px solid #3fc9ff;
+  border: 1px solid rgba(255,255,255,0.06);
+  text-align: left;
+  position: relative;
+}
+
+/* Small label above tweet */
+.tweet-label {
+  font-size: 12px;
+  letter-spacing: 2px;
+  color: #777;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+.tweet-card {
+   background: #7a7a7a;
+  padding: 25px;
+  border-radius: 25px;
+  color: white;
+  margin-bottom: 50px;
+  width: 70%;
+  margin-left: 10%;
+}
+
+.tweet-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 
+      0 20px 50px rgba(0,0,0,0.8),
+      0 0 25px rgba(63,201,255,0.2);
+}
+
+/* Header */
+.tweet-card-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 25px;
+  letter-spacing: 1px;
+}
+
+/* Text */
+.tweet-text {
+  font-size: 20px;
+  line-height: 1.7;
+  background: rgba(255,255,255,0.04);
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid rgba(255,255,255,0.05);
+}
+
+/* ===== Stats Boxes Upgrade ===== */
+
+
+
+.stats-box h3 {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  color: #ccc;
+  margin-bottom: 25px;
+  letter-spacing: 1px;
+}
+
+
+</style>
+<body >
+ <nav class="navbar">
+    <div class="logo">ThreatLens</div>
+    <ul class="nav-links">
+      <li><a href="home">Home</a></li>
+      <li><a href="analyse">Analyse</a></li>
+            <li><a href="history">History</a></li>
+
+      <li><a href="about">About us</a></li>
+      <li><a href="contact">Contact us</a></li>
+      {%if session['user_id']%}
+      <li><a href="logout">Logout</a></li>
+      {%else%}
+      <li><a href="login">Login</a></li>
+      <li><a href="signup">Signup</a></li>
+      {%endif%}
+    </ul>
+  </nav>
+
+<section class="analysis-section">
+  <div class="analysis-wrapper">
+
+    <div class="left-box" style="margin-bottom: 5%;">
+      <h1 style="margin-top: -10px;">
+          EMOTI<spane class="note">ON</spane>
+      </h1>
+    </div>
+
+    {% if message %}
+
+    <!-- RESULT CARD -->
+    <div class="emotion-card">
+
+        <div class="emotion-header">
+            <span class="emotion-label">Detected Emotion</span>
+        </div>
+
+      <div class="emotion-result {{message.label}}">
+  {% if message.label == "sadness" %} 😢
+  {% elif message.label == "joy" %} 😄
+  {% elif message.label == "love" %} ❤️
+  {% elif message.label == "anger" %} 😡
+  {% elif message.label == "fear" %} 😨
+  {% elif message.label == "surprise" %} 😮
+  {% endif %}
+  {{ message.label | upper }}
+</div>
+
+       <div class="emotion-divider"></div>
+
+<div class="emotion-text-box">
+    <div class="tweet-label">ANALYSED TEXT</div>
+    {{message.emotion_tweet}}
+</div>
+    </div>
+
+    {% endif %}
+
+  </div>
+</section>
+
+
+</body>
+</html>

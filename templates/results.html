@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ThreatLens - Analyse</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.3.0/raphael.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/justgage/1.4.0/justgage.min.js"></script>
+<link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<style>
+  .note {
+  color: #3fc9ff;
+  font-family: 'Courier New', monospace;
+}
+
+/* analysis layout */
+.analysis-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.analysis-wrapper {
+  width: 75%;
+  padding: 20px;
+}
+
+/* title */
+.analysis-title {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 35px;
+  color: white;
+}
+
+/* tweet card */
+.tweet-card {
+  background: #7a7a7a;
+  padding: 25px;
+  border-radius: 25px;
+  color: white;
+  margin-bottom: 50px;
+  width: 70%;
+  margin-left: 10%;
+}
+
+.tweet-card-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.arrow-left, .arrow-right {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+.tweet-title {
+  text-align: center;
+  flex: 1;
+}
+
+/* tweet text */
+.tweet-text {
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+/* stats row */
+/* ROW */
+.stats-row {
+  display: flex;
+  gap: 20px !important;   /* was 40px */
+  margin-top: 10px; 
+  margin-left: 10%;
+}
+
+/* BOXES */
+.stats-box {
+  width: 30%;
+  background: #3d3d3d;
+  padding: 35px;
+  border-radius: 20px;
+  border: 1px solid #b3b3b3;
+  color: white;
+  margin-right: 3%;
+}
+
+/* HEADINGS */
+.stats-box h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 700;
+  color: #ddd;
+  margin-bottom: 20px;
+}
+
+/* GAUGE CONTAINER */
+.gauge {
+  width: 260px;
+  height: 140px;
+  margin: 20px auto 10px auto;
+  position: relative;
+}
+
+/* ARC BACKGROUND */
+.gauge::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url('gauge.png');
+  background-size: cover;
+}
+
+/* NEEDLE */
+.gauge::after {
+  content: "";
+  width: 8px;
+  height: 80px;
+  background: linear-gradient(to bottom, #ff9f45, #cc6230);
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform-origin: bottom center;
+  transform: rotate(0deg);
+  border-radius: 6px;
+}
+
+/* RATE TEXT */
+.rate-text {
+  text-align: center;
+  margin-top: 15px;
+  font-size: 18px;
+  color: #fff;
+  opacity: 0.9;
+}
+
+/* COUNT NUMBER */
+.count-box {
+  text-align: center;
+}
+
+.count-number {
+  margin-top: 45px;
+  font-size: 54px;
+  font-weight: 600;
+  color: white;
+}
+ .gauge-container {
+            width: 70%;
+            margin: auto;
+            padding: 2%;
+            background: transparent;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+        }
+        .title {
+            font-weight: bold;
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        @media (max-width: 900px) {
+  .stats-row {
+    flex-wrap: wrap;        /* Allow boxes to go under each other */
+    justify-content: center;
+  }
+
+  .stats-box {
+    width: 90% !important;   /* full width */
+    margin-right: 0 !important;
+    margin-bottom: 20px;
+  }
+
+  .gauge-container {
+    width: 90% !important;
+  }
+}
+#gauge-container  svg {
+  width: 100% !important;
+  height: auto !important;
+}
+#tweetSlides {
+  position: relative;
+  overflow: hidden;
+  height: auto;
+}
+
+.slide {
+  display: none;
+}
+
+.slide.active {
+  display: block;
+}
+
+.arrow-left, .arrow-right {
+  cursor: pointer;
+  opacity: .8;
+  font-size: 22px;
+}
+
+</style>
+<body onload="load('{{message.negative_rate}}')">
+ <nav class="navbar">
+    <div class="logo">ThreatLens</div>
+    <ul class="nav-links">
+      <li><a href="home">Home</a></li>
+      <li><a href="analyse">Analyse</a></li>
+            <li><a href="history">History</a></li>
+
+      <li><a href="about">About us</a></li>
+      <li><a href="contact">Contact us</a></li>
+      {%if session['user_id']%}
+      <li><a href="logout">Logout</a></li>
+      {%else%}
+      <li><a href="login">Login</a></li>
+      <li><a href="signup">Signup</a></li>
+      {%endif%}
+    </ul>
+  </nav>
+
+<section class="analysis-section">
+  <div class="analysis-wrapper">
+<div class="left-box" style="margin-bottom: 5%;">
+  <h1 style="margin-top: -10px;">
+      ANALY<spane class="note">SE</spane>
+    </h1>
+</div>
+    
+<div class="tweet-card">
+
+  <div class="tweet-card-header">
+    <span class="arrow-left" onclick="slideTweet(-1)">❮</span>
+    <span class="tweet-title">Flagged Tweets</span>
+    <span class="arrow-right" onclick="slideTweet(1)">❯</span>
+  </div>
+
+  <!-- SLIDER CONTENT -->
+  <div id="tweetSlides">
+    {%for t in message.neg_tweets%}
+    <!-- TWEET 1 -->
+    <p class="tweet-text slide">
+      {{t}}
+    </p>
+{%endfor%}
+    
+
+
+  </div>
+</div>
+
+   <div class="stats-row">
+
+  <!-- RATE BOX -->
+  <div class="stats-box gauge-box">
+     <h3>Cybercrime Activity Rate</h3>
+     <div class="gauge-container">
+          <div id="gauge"></div>
+          <p>Rate: <span id="rateValue">70</span>%</p>
+      </div>
+  </div>
+
+  <!-- COUNT BOX -->
+  <div class="stats-box count-box">
+    <h3>Tweets Count</h3>
+    <div class="count-number">{{message.tweets_num}}</div>
+  </div>
+
+</div>
+
+  </div>
+</section>
+ <script>
+      function load(rate){
+        rate = parseFloat(rate);
+        var gauge = new JustGage({
+          id: "gauge",
+          value: Math.floor(rate*100),  
+          min: 0,
+          max: 100,
+          gaugeWidthScale: 0.6,
+          donut: false,
+          label: "%",
+          levelColors: ["#5CB85C","#F0AD4E","#D9534F"],
+          pointer: true
+      });
+      var newValue = Math.floor(rate*100);
+      gauge.refresh(newValue);
+      document.getElementById("rateValue").innerText = newValue;
+      }
+     
+      // Simulate value changes
+      
+  </script>
+  <script>
+let tweetIndex = 0;
+
+function showTweet(i) {
+  const slides = document.querySelectorAll("#tweetSlides .slide");
+
+  tweetIndex = (i + slides.length) % slides.length;
+
+  slides.forEach(s => s.classList.remove("active"));
+  slides[tweetIndex].classList.add("active");
+}
+
+function slideTweet(step) {
+  showTweet(tweetIndex + step);
+}
+
+// first load
+showTweet(0);
+</script>
+
+</body>
+</html>

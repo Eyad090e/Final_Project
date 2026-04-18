@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ThreatLens - History</title>
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+
+  <!-- Font Awesome -->
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  >
+
+</head>
+
+<style>
+  .note {
+    display: inline-block;
+    color: #3fc9ff;
+  }
+
+  .history-container {
+    margin-top: 30px;
+  }
+
+  .history-card {
+    background: #3e4349;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #3fc9ff;
+    width: 80%;
+  }
+
+  .history-card h3 {
+    color: #3fc9ff;
+    margin-bottom: 10px;
+  }
+
+  .history-card p {
+    margin: 6px 0;
+    font-size: 16px;
+  }
+
+  .card-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .card-row i {
+    color: #3fc9ff;
+  }
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 40px;
+}
+
+.left-box {
+  width: 65%;
+}
+
+.right-image {
+  width: 30%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.right-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.btn-login {
+  margin-top: 20px;
+}
+
+</style>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="logo">ThreatLens</div>
+    <ul class="nav-links">
+      <li><a href="home">Home</a></li>
+      <li><a href="analyse">Analyse</a></li>
+      <li><a href="history">History</a></li>
+      <li><a href="about">About us</a></li>
+      <li><a href="contact">Contact us</a></li>
+      {% if session['user_id'] %}
+      <li><a href="logout">Logout</a></li>
+      {% else %}
+      <li><a href="login">Login</a></li>
+      <li><a href="signup">Signup</a></li>
+      {% endif %}
+    </ul>
+  </nav>
+
+<!-- Main Section -->
+<section class="container">
+
+  <div class="left-box">
+    <h1>User <span class="note">History</span></h1>
+
+    <div class="history-container">
+      {% for h in hist %}
+      <div class="history-card">
+        <h3>@{{h['username']}}</h3>
+
+        <div class="card-row">
+          <i class="fa-solid fa-hashtag"></i>
+          <p>Tweets Analyzed: {{h['t_counts']}}</p>
+        </div>
+
+        <div class="card-row">
+          <i class="fa-solid fa-chart-line"></i>
+          <p>Crime Rate: {{ h['crime_rate'] | float * 100 }}%</p>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+
+    <hr>
+
+    <button class="btn-login" onclick="goHome()">Back to Home</button>
+  </div>
+
+  <div class="right-image">
+    <img src="{{ url_for('static', filename='images/logo.png') }}" alt="ThreatLens Logo">
+  </div>
+
+</section>
+
+  <script>
+    function goHome() {
+      window.location.href = "/home";
+    }
+  </script>
+</body>
+</html>
