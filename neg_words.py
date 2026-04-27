@@ -31,3 +31,5 @@ def extract_negative_words(username):
     return crime_words,tweets_number,len(tweets),tweets
 
 
+
+
